@@ -1,6 +1,6 @@
 ---
 title: "Simple document"
-output: word_document
+output: html_document
 ---
 ```{r}
 library(tidyverse)
